@@ -11,7 +11,7 @@ import Comments from '../../images/comments.svg';
 import './style.css';
 
 const itemList = (item) => (
-  <li className="tweet">
+  <>
     <img className="avatar-tweet" src={Avatar} alt="Avatar"/>
     <div className="info">
       <div className="header">
@@ -33,7 +33,7 @@ const itemList = (item) => (
         </li>
       </ul>
     </div>
-  </li>
+  </>
 )
 
 const tweets = [
