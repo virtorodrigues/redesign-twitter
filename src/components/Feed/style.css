@@ -1,0 +1,101 @@
+.feed {
+  background: #fff;
+  width: 590px;
+  margin: 10px 5px 0px;
+  border: 1px solid #e6ecf0;
+}
+
+.feed nav {
+  padding: 10px 15px;
+  border-bottom: 1px solid #e6ecf0;
+}
+
+.feed nav a {
+  color: #3bb9e3;
+  font-size: 18px;
+  text-decoration: none;
+  font-weight: bold;
+  margin-left: 20px;
+}
+
+.feed nav a:first-child {
+  margin: 0;
+}
+
+.feed nav a.active {
+  color: #1f2226;
+}
+
+.feed .tweets ul {
+  list-style: none;
+}
+
+.feed .tweets ul li.tweet {
+  display: flex;
+  padding: 10px 15px;
+  border-bottom: 1px solid #e6ecf0;
+}
+
+.feed .tweets ul li .avatar-tweet {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  margin-top: 3px;
+}
+
+.feed .tweets ul li .info {
+  margin-left: 10px;
+}
+
+.feed .tweets ul li .info .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.feed .tweets ul li .info .header strong {
+  word-break: break-all;
+  color: #14171a;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.feed .tweets ul li .info .header strong span {
+  font-size: 14px;
+  color: #657786;
+}
+
+.feed .tweets ul li .info .header .img-arrow-down {
+  height: 14px;
+  widows: 14px;
+}
+
+.feed .tweets ul li .info p {
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: normal;
+  word-break: break-all;
+  margin-bottom: 10px;
+  color: #14171a;
+}
+
+.feed .tweets ul li .info .img-tweet {
+  width: 100%;
+  border-radius: 10px;
+}
+
+.feed .tweets ul li .info ul.actions {
+  display: flex;;
+
+  height: 18px;
+  margin-bottom: 2px;
+  margin-top: 10px;
+}
+
+.feed .tweets ul li .info ul.actions li {
+  margin-left: 60px;
+}
+
+.feed .tweets ul li .info ul.actions li:first-child {
+  margin: 0;
+}
