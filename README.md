@@ -2,7 +2,7 @@
 
 ## Let's check the result
 
-![twitter](https://user-images.githubusercontent.com/40903144/67643047-606be000-f8f1-11e9-9f2c-17253f6a6298.png)
+![twitter](https://user-images.githubusercontent.com/40903144/67643303-c4dc6e80-f8f4-11e9-8751-ab44409ec948.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
