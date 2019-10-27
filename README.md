@@ -1,3 +1,8 @@
+Was used just ReactJS and pure CSS!
+
+![Uploading twitter.png…]()
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
