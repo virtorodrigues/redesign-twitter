@@ -1,6 +1,8 @@
-Was used just ReactJS and pure CSS!
+# Was used just ReactJS and pure CSS!
 
-![Uploading twitter.png…]()
+## Let's check the result
+
+![twitter](https://user-images.githubusercontent.com/40903144/67643047-606be000-f8f1-11e9-9f2c-17253f6a6298.png)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
